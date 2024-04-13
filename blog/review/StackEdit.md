@@ -12,15 +12,15 @@ Well, my needs have changed a bit. I have moved away from `MS Word`, and even `G
 
 As with any task, staying focussed, and minimizing context switches is crucial to productivity.  A quick question in an e-mail can lead to a twenty minute distraction, then it takes up to five minutes to re-orient on the original task. These context switches get worse when you are both supporting an old project which is live, and developing the replacement product, all the major concepts are the same, but you may have switched what hardware it runs on, change programming language, or are dealing with two feature sets with new features added only to the new product, and deprecated functions as well as the common subset.  
 ```mermaid
-graph TD:
+graph TD
     subgraph A
-        id1[ "Set A" ]
+        id1["Set A"]
     end
     subgraph B
-        id2[ "Set B" ]
+        id2["Set B"]
     end
     subgraph C
-        id3[ "Set C" ]
+        id3["Set C"]
     end
     id1 --- id2
     id2 --- id3
@@ -30,6 +30,6 @@ graph TD:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkyMjkxNiwtMTc5OTE4NDEyMCwtNj
-UxODY3MDY2LDExNDE3ODQxNTksLTk2ODQyMDU5OF19
+eyJoaXN0b3J5IjpbLTEwOTM4OTIwODQsLTE3OTkxODQxMjAsLT
+Y1MTg2NzA2NiwxMTQxNzg0MTU5LC05Njg0MjA1OThdfQ==
 -->
