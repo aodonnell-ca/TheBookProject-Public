@@ -11,10 +11,25 @@ So `Google Docs` should be my solution, and just make sure I have enabled `offli
 Well, my needs have changed a bit. I have moved away from `MS Word`, and even `Google Docs` as I have started using markdown more extensively. These days my writing is split between various professional needs.  Requirements capture, specifications, and how-to pages are tracked on the corporate wiki.  Detailed README.md files in GitHub repositories, detailing APIs, how to set up the build environment and implementation support docuements with state transition diagrams and sequence diagrams; ASCII art only goes so far, so I've been using PlantUML, and am now playing with Mermaid Chart. I have also been working on a technical blog, and a book project.  Yes, I've been busy at the keyboard.
 
 As with any task, staying focussed, and minimizing context switches is crucial to productivity.  A quick question in an e-mail can lead to a twenty minute distraction, then it takes up to five minutes to re-orient on the original task. These context switches get worse when you are both supporting an old project which is live, and developing the replacement product, all the major concepts are the same, but you may have switched what hardware it runs on, change programming language, or are dealing with two feature sets with new features added only to the new product, and deprecated functions as well as the common subset.  
+```mermaid
+graph TD:
+    subgraph A
+        id1[ "Set A" ]
+    end
+    subgraph B
+        id2[ "Set B" ]
+    end
+    subgraph C
+        id3[ "Set C" ]
+    end
+    id1 --- id2
+    id2 --- id3
+    id3 --- id1
+```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkxODQxMjAsLTY1MTg2NzA2NiwxMT
-QxNzg0MTU5LC05Njg0MjA1OThdfQ==
+eyJoaXN0b3J5IjpbLTE5ODkyMjkxNiwtMTc5OTE4NDEyMCwtNj
+UxODY3MDY2LDExNDE3ODQxNTksLTk2ODQyMDU5OF19
 -->
