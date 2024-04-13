@@ -10,11 +10,11 @@ So `Google Docs` should be my solution, and just make sure I have enabled `offli
 
 Well, my needs have changed a bit. I have moved away from `MS Word`, and even `Google Docs` as I have started using markdown more extensively. These days my writing is split between various professional needs.  Requirements capture, specifications, and how-to pages are tracked on the corporate wiki.  Detailed README.md files in GitHub repositories, detailing APIs, how to set up the build environment and implementation support docuements with state transition diagrams and sequence diagrams; ASCII art only goes so far, so I've been using PlantUML, and am now playing with Mermaid Chart. I have also been working on a technical blog, and a book project.  Yes, I've been busy at the keyboard.
 
-As with
+As with any task, staying focussed, and minimizing context switches is crucial to productivity.  A quick question in an e-mail can lead to a twenty minute distraction, then it takes up to five minutes to re-orient on the original task. These context switches get worse when
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzU2NDY1MCwtNjUxODY3MDY2LDExND
-E3ODQxNTksLTk2ODQyMDU5OF19
+eyJoaXN0b3J5IjpbLTE4NDI4MzM0NjIsLTY1MTg2NzA2NiwxMT
+QxNzg0MTU5LC05Njg0MjA1OThdfQ==
 -->
