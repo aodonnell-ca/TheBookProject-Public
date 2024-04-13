@@ -8,11 +8,11 @@ I know in the world of Special Eduction the `AlphaSmart Neo2` was a lightweight 
 
 So `Google Docs` should be my solution, and just make sure I have enabled `offline` mode before I take it to my favourite writing place. I can either turn off the wifi, or set the `Do Not Disturb` mode (which I always forget to turn off, and wonder why no one has been in touch for days).
 
-Well, my needs have changed a bit. I have moved away from `MS Word`, and even `Google Docs` as I have started using markdown more extensicvel
+Well, my needs have changed a bit. I have moved away from `MS Word`, and even `Google Docs` as I have started using markdown more extensively. These days my writing is split between requirements capture, specifications, and how-to pages on the corporate wiki.  Detailed README.md files in GitHub repositories.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODQ4ODMwOCwtNjUxODY3MDY2LDExND
-E3ODQxNTksLTk2ODQyMDU5OF19
+eyJoaXN0b3J5IjpbNzE4NDc4OTgyLC02NTE4NjcwNjYsMTE0MT
+c4NDE1OSwtOTY4NDIwNTk4XX0=
 -->
